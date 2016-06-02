@@ -1,24 +1,26 @@
 {
-    "name": "angular-plotly",
-    "version": "0.1.2",
-    "description": "An AngularJS directive for plotly.js",
+    "name": "meanjs-plotly",
+    "version": "0.1.0",
+    "description": "An AngularJS directive for plotly.js adapted to be used in meanjs without JQuery",
     "main": [
-        "src/angular-plotly.js"
+        "src/meanjs-plotly.js"
     ],
     "license": "MIT",
     "keywords": [
         "angular",
+	"meanjs",
         "plotly",
         "charts",
         "visualization"
     ],
     "authors": [
-        "Alon Horev"
+        "Alon Horev",
+	"John Kaufmann"
     ],
-    "homepage": "https://github.com/alonho/angular-plotly",
+    "homepage": "https://github.com/kaufmann42/meanjs-plotly",
     "repository": {
         "type": "git",
-        "url": "http://alonho.github.io/angular-plotly.git"
+        "url": "https://github.com/kaufmann42/meanjs-plotly.git"
     },
     "dependencies": {
         "angular": "^1.x"
