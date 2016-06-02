@@ -1,4 +1,4 @@
-# Angular Plotly.js
+# Angular Plotly.js (https://github.com/alonho/angular-plotly)
 
 ## Usage
 
