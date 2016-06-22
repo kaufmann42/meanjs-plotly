@@ -1,5 +1,6 @@
 # MEAN Stack Plotly.js (https://github.com/kaufmann42/meanjs-plotly) 
-# ORIGINAL: (https://github.com/alonho/angular-plotly)
+## Original Project: 
+(https://github.com/alonho/angular-plotly)
 
 ## Usage
 
