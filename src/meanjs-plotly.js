@@ -31,7 +31,6 @@
           }, true);
 
           var w = angular.element($window);
-          console.log(w);
           scope.getWindowDimensions = function () {
             return {
               'h': w.height,
