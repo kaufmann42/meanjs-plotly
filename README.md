@@ -1,4 +1,4 @@
-# Angular Plotly.js (https://github.com/alonho/angular-plotly)
+# MEAN Stack Plotly.js (https://github.com/kaufmann42/meanjs-plotly) ORIGINAL: (https://github.com/alonho/angular-plotly)
 
 ## Usage
 
@@ -6,7 +6,7 @@ Install with bower:
 
 ```bash
 bower install plotly --save
-bower install angular-plotly --save
+bower install meanjs-plotly --save
 ```
 
 Include angular, plotly and meanjs-plotly:
